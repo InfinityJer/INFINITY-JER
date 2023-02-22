@@ -1,10 +1,3 @@
-
-
-
-
-
-
-
 * :wave:Hi, I'm Jeremih
 * :diamond_shape_with_a_dot_inside:Intrested in back-end development
 * :arrow_upper_right:Currently learning C
